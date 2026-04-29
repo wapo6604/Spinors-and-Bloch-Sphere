@@ -8,3 +8,8 @@ The Mobius transformations representing rotations of the Riemann sphere about th
 - [R<sub>z</sub>(ζ;θ)](http://davidbau.com/conformal/#e%5E(i*4pi*t)*z)
 
 Note that the slider for the angle only takes values between 0 and 1, so a correction factor of 4π has been included to increase the range of angles to between 0 and 4π. This ensures that two full rotations are animated, corresponding to one full rotation of the spinor representation.
+
+# Bloch Sphere
+A talk delivered at the University of Sydney Mathematics Society (SUMS) based on Article 1 of Spinors discussing the Bloch sphere and the Hopf fibration.
+
+The fibers of the Hopf map can be seen using [Nicolas Belmonte's visualization](https://philogb.github.io/page/hopf/)
