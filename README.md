@@ -12,6 +12,6 @@ Note that the slider for the angle only takes values between 0 and 1, so a corre
 # Bloch Sphere
 A talk delivered at the University of Sydney Mathematics Society (SUMS) based on Article 1 of Spinors discussing the Bloch sphere and the Hopf fibration.
 
-Talk can be viewed [here.](https://www.youtube.com/watch?v=Zll42CeH3tA)
+Talk can be viewed [here](https://www.youtube.com/watch?v=Zll42CeH3tA).
 
-The fibers of the Hopf map can be seen using [Nicolas Belmonte's visualization](https://philogb.github.io/page/hopf/)
+The fibers of the Hopf map can be seen using [Nicolas Belmonte's visualization](https://philogb.github.io/page/hopf/).
